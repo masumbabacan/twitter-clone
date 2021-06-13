@@ -35,7 +35,7 @@ const Feed = () => {
             <Post />
             <Post />
             <Post />
-
+ 
         </div>
     )
 }
